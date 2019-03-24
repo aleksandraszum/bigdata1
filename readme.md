@@ -12,7 +12,7 @@ You should install Python (and library such as: pandas, numpy, matplotlib, seabo
 
 * Clone repo to own computer using: 
 
-git clone 
+git clone https://github.com/aleksandraszum/bigdata1.git
 
 * Create a new conda environment (it is not nessesary)
 
