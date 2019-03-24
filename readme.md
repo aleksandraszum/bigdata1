@@ -10,7 +10,7 @@ Solutions was showed in this repository was about global terorrism analysis and 
 This solutions was written on Linux with Python3.7.1.
 You should install Python (and library such as: pandas, numpy, matplotlib, seaborn, sys), Anaconda, Jupyter Notebook. 
 
-* Clone repo to own computer using: 
+* Clone repo to own computer writting: 
 
 git clone https://github.com/aleksandraszum/bigdata1.git
 
